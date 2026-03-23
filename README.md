@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nicolini7
-- 👀 I’m interested in programing, finances, fps games, exercices and much more.
+- 👀 I’m interested in programing, finances, exercices...
 - 🌱 I’m currently learning programing.
 - 💞️ I’m looking to collaborate on everything that I can learn.
 - 📫 How to reach me: E-mail, messages...
