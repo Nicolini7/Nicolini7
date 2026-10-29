@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing, finances, exercices...
 - 🌱 I’m currently learning programing.
 - 💞️ I’m looking to collaborate on everything that I can learn.
-- 📫 How to reach me: E-mail, messages...
+- 📫 How to reach me: gn7labs.tech
 
 <!---
 Nicolini7/Nicolini7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
